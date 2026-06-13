@@ -1,0 +1,14 @@
+{
+  "mAnimators": [
+    {
+      "mDuration": 1333,
+      "mInterpolator": "LinearInterpolator",
+      "mProperties": [
+        {
+          "mFlag": "main",
+          "mProperty": "frameIndex"
+        }
+      ]
+    }
+  ]
+}

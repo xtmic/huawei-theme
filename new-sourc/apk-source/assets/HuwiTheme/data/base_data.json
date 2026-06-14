@@ -1,0 +1,15 @@
+{
+  "cameraSceneWidth": 1316,
+  "cameraSceneHeight": 2832,
+  "cameraZoom": 1000,
+  "cameraPosition": [
+    658,
+    1416,
+    -1000
+  ],
+  "cameraTarget": [
+    658,
+    1416,
+    0
+  ]
+}
